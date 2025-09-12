@@ -1,5 +1,5 @@
 {
-    "name": "experiment",
+    "id": "experiment",
     "title": "tier-experiment",
     "description": "A custom system based on Tiers of Power and opposed dice rolls.",
     "version": "0.1.0",
