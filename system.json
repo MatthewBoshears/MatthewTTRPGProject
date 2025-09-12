@@ -1,0 +1,25 @@
+{
+    "name": "experiment",
+    "title": "tier-experiment",
+    "description": "A custom system based on Tiers of Power and opposed dice rolls.",
+    "version": "0.1.0",
+    "author": "You",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "13"
+    },
+    "esmodules": [
+        "main.js"
+    ],
+    "styles": [
+        "css/style.css"
+    ],
+    "manifest": "https://raw.githubusercontent.com/MatthewBoshears/MatthewTTRPGProject/main/system.json",
+    "download": "https://github.com/MatthewBoshears/MatthewTTRPGProject/archive/refs/heads/main.zip",
+    "packs": [],
+    "languages": [],
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "primaryTokenAttribute": "hp",
+    "secondaryTokenAttribute": ""
+}

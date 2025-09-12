@@ -1,0 +1,28 @@
+{
+  "Actor": {
+    "types": ["character"],
+    "character": {
+      "hp": {
+        "value": 10,
+        "max": 10
+      },
+      "levels": {
+        "alpha": 1,
+        "beta": 0,
+        "charlie": 0,
+        "delta": 0,
+        "gamma": 0
+      },
+      "bonusDice": {
+        "value": 1
+      }
+    }
+  },
+  "Item": {
+    "types": ["skill"],
+    "skill": {
+      "tier": "Alpha",
+      "rank": 1
+    }
+  }
+}
